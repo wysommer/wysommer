@@ -4,7 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 AI Developer / Designer
 -----------------------
 
-I use AI to design and develop digital experiences that help people move forward in life. I first learned to code in 2018, but after struggling through some personal tribulations I lost everything I learned. Until I came back to coding in 2024, and I found a stronger passion than I had the first time around. Since Sept. 2024 I've designed, developed, and deployed multiple software products that solve important problems for multiple different categories of people. I've been able to do this with the assistance of AI tools like Cursor AI IDE, and ChatGPT, 10x-ing my productivity and giving me the ability to create full-stack Next.JS and React Native apps in a short time-frame.
+I use AI to design and develop digital experiences that help people move forward in life. I first learned to code in 2018, but after struggling through some personal tribulations I lost everything I learned. Until I came back to coding in 2024, and I found a stronger passion than I had the first time around. Since Sept. 2024 I've designed, developed, and deployed multiple software products that solve important problems for many different categories of people. I've been able to do this with the assistance of AI tools like Cursor AI IDE, and ChatGPT, 10x-ing my productivity and giving me the ability to create full-stack Next.JS and React Native apps in a short time-frame.
 
 * 🌍  I'm based in South Africa
 * 🖥️  See my portfolio at [wysommer.com](http://wysommer.com)

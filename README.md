@@ -6,7 +6,7 @@ Software Engineer
 
 I design & develop apps and websites that are creative, usable, unique, and well-performing. I learned how to code from Frontend Simplified. I'm open to remote work opportunities in web and mobile development as a contractor, partner, or employee. I am currently freelancing through my solo-preneurship venture: 16:7 Studio Inc. - where I develop micro SaaS apps for various niches, build small-business websites for various clients, and teach AI coding and no-code development through my affordable online course: No-Code-Pro. Please feel free to reach out to discuss anything coding related. If you wish to schedule a virtual meeting with me you can do so via my calendly: https://calendly.com/contact-written-art/interview
 
-(work eligibilty situation) From the U.S. originally, I also have German Citizenship, Currently living in South Africa.
+(work eligibilty situation) From the U.S. originally, I also have German citizenship, Currently living in South Africa.
 
 
 * 🌍  I'm based in South Africa

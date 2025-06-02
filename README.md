@@ -1,10 +1,11 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Wÿ Sommer
 =================================================================================================================================
 
-AI Developer / Designer
+Software Engineer
 -----------------------
 
-I use AI to design and develop digital experiences that help people move forward in life. I first learned to code in 2018, but after struggling through some personal tribulations I lost everything I learned. Until I came back to coding in 2024, and I found a stronger passion than I had the first time around. Since Sept. 2024 I've designed, developed, and deployed multiple software products that solve important problems for different categories of people. I've been able to do this with the assistance of AI tools like Cursor AI IDE, and ChatGPT, 10x-ing my productivity and giving me the ability to create full-stack Next.JS and React Native apps in a short time-frame.
+I design & develop apps and websites that are creative, usable, unique, and well-performing. I learned how to code from Frontend Simplified. I'm open to remote work opportunities in web and mobile development as a contractor, partner, or employee. I am currently freelancing through my solo-preneurship venture: 16:7 Studio Inc. - where I develop micro SaaS apps for various niches, build small-business websites for various clients, and teach AI coding and no-code development through my affordable online course: No-Code-Pro. Please feel free to reach out to discuss anything coding related. If you wish to schedule a virtual meeting with me you can do so via my calendly: https://calendly.com/contact-written-art/interview
+
 
 * 🌍  I'm based in South Africa
 * 🖥️  See my portfolio at [wysommer.com](http://wysommer.com)
@@ -12,7 +13,7 @@ I use AI to design and develop digital experiences that help people move forward
 * 🚀  I'm currently working on [AgencyJobs.Pro](http://agencyjobs.pro)
 * 🧠  I'm learning React Native
 * 🤝  I'm open to collaborating on Software Dev. Projects, Mobile Apps, Web Development
-* ⚡  from LI, NY
+* ⚡  from New York
 
 ### Skills
 

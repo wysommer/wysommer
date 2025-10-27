@@ -1,18 +1,16 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Wyatt Sommer
+Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Wy Sommer
 =================================================================================================================================
 
 Software Engineer
 -----------------------
 
-I design & develop apps and websites that are creative, usable, unique, and well-performing. I learned how to code from Frontend Simplified. I'm open to remote work opportunities in web and mobile development as a contractor, partner, or employee. I am currently freelancing through my solo-preneurship venture: 16:7 Studio Inc. - where I develop micro SaaS apps for various niches, build small-business websites for various clients, and teach AI coding and no-code development through my affordable online course: No-Code-Pro. Please feel free to reach out to discuss anything coding related. If you wish to schedule a virtual meeting with me you can do so via my calendly: https://calendly.com/contact-written-art/interview
-
-(work eligibilty situation) From the U.S. originally, I also have German citizenship, Currently living in South Africa.
+Creative frontend designer and developer with full-stack experience. Building an app development company: 16:7 Studio Inc. but open to remote work opportunities in the New York area. Proficient in Next.js, TailwindCSS, Javascript, Typescript, HTML, CSS, Firebase (auth and db), Vercel, Cursor, multiple UI component libraries, OpenAI API, Stripe API, Figma, and more. I am a Christian, that's why I'm working on developing Christian apps, but I'm one of the cool ones who loves all people and doesn't judge. Check out my portfolio below and contact me through there if you wanna talk about working together. Peace to the world! 
 
 
-* 🌍  I'm based in South Africa
-* 🖥️  See my portfolio at [wysommer.com](http://wysommer.com)
+* 🌍  I'm based in New York
+* 🖥️  See my portfolio at [wysommer.dev](http://wysommer.dev)
 * ✉️  You can contact me at [wyatt3996@gmail.com](mailto:wyatt3996@gmail.com)
-* 🚀  I'm currently working on [AgencyJobs.Pro](http://agencyjobs.pro)
+* 🚀  I'm currently working on [jesusjournal.app](http://jesusjournal.app)
 * 🧠  I'm learning React Native
 * 🤝  I'm open to collaborating on Software Dev. Projects, Mobile Apps, Web Development
 * ⚡  from New York

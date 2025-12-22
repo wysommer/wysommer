@@ -4,10 +4,10 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Software Engineer
 -----------------------
 
-Creative frontend designer and developer with full-stack experience. Building an app development company: 16:7 Studio Inc. but open to remote work opportunities in the New York area. Proficient in Next.js, TailwindCSS, Javascript, Typescript, HTML, CSS, Firebase (auth and db), Vercel, Cursor, multiple UI component libraries, OpenAI API, Stripe API, Figma, and more.
+Creative frontend designer and developer with full-stack experience. Open to work opportunities globally. Proficient in Next.js, TailwindCSS, Javascript, Typescript, HTML, CSS, Firebase (auth and db), Vercel, Cursor, multiple UI component libraries, OpenAI API, Stripe API, Figma, and more.
 
 
-* 🌍  I'm based in New York
+* 🌍  I'm based in South Africa currently, looking to relocate to Europe.
 * 🖥️  See my portfolio at [wysommer.dev](http://wysommer.dev)
 * 🚀  I'm currently working on [CREATIONISM STUDIO](http://creationism.studio)
 * 🧠  I'm learning (getting better at) React Native
